@@ -3,12 +3,11 @@
 Streams is a mobile application that allows groups of friends to capture "streams" of memory over a duration of time. Users can send photos, videos or chat messages amongst group members and view their posts by location (via Google Maps API) and time. Posts are synced across all devices instantaneously and automatically, remaining available when offline as well.
 
 ## Technology Used
-- Angular
-- Ionic
-- Cordova
-- Swift
-- Google Firebase
-- Google Maps
+- [Angular](https://angularjs.org/)
+- [Ionic](https://ionicframework.com/)
+- [Cordova](https://cordova.apache.org/)
+- [Xcode](https://developer.apple.com/xcode/)
+- [Google Firebase](https://firebase.google.com/)
 
 ## Features
 - User and Account Management (login / signup)
